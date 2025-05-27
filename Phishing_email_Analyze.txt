@@ -1,0 +1,38 @@
+Analysis Summary
+Attack Score
+
+Learn more
+Note: Attack Score is most accurate in the Sublime product since it uses organization context and history
+
+Attack Score Verdict
+Malicious
+
+Attack Score Signals
+Credential Theft
+Language in the message appears to engage the user in order to steal credentials.
+Personal Information Theft
+Language in the message appears to engage the user in order to steal personally identifiable (PII) or other sensitive information.
+Unusual Sender Domain
+The sender's domain doesn't match any link domains found in the body of the message.
+Message Details
+Message Insights (8)
+Suspicious subject
+Low reputation links: http://netflix-support-billing.com/update
+Sender domain matches no body domains :Domains in body: netflix-support-billing.com
+High trust sender domain: no-reply@netflix.com :Links in body : http://netflix-support-billing.com/update
+Sender domain registrar: MarkMonitor Inc. :Sender Prevalence: new
+
+Message Content
+Subject :Action Required: Your Netflix Account Has Been Suspended
+Sender :Netflix Support <no-reply@netflix.com>
+
+To :<rohit.sharma@example.com>
+Received 5/27/2025 10:52 AM
+User View Text View HTML View EML View MDM View
+
+
+Sender Details
+Sender Email Address :Netflix Support <no-reply@netflix.com>
+Sender Domain :netflix.com
+
+https://analyzer.sublime.security/?id=bfc8c0d7-5298-4dd9-8614-4964e35df9b0
